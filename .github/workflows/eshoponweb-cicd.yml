@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 235bbe8c-2794-4224-9a37-59e683d05168
   webapp-NAME: devops-webapp-eastus2-48167653
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
